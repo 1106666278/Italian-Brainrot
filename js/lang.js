@@ -1,6 +1,6 @@
 const translations = {
     en: {
-        pageTitle: "Italian Brainrot: Ultimate Merge Fella - Play Online",
+        pageTitle: "Italian Brainrot: Ultimate Merge Fella - Play Online tung tung tung sahur",
         metaDescription: "Play Italian Brainrot: Ultimate Merge Fella online! A hilarious NO ADS mobile game with addictive merging mechanics and wild Italian meme vibes. Fuse fellas, spawn monsters, and conquer this epic game.",
         gameTitle: "Italian Brainrot",
         playNowTitle: "Play Italian Brainrot Now!",
@@ -38,7 +38,7 @@ const translations = {
         footerText: "&copy; 2025 意大利式.游戏页面。游戏概念归各自创作者所有。"
     },
     es: { // Placeholder for Spanish
-        pageTitle: "Italian Brainrot: Ultimate Merge Fella - Juega Online",
+        pageTitle: "Italian Brainrot: Ultimate Merge Fella - Juega Online tung tung tung sahur",
         metaDescription: "¡Juega Italian Brainrot: Ultimate Merge Fella online! Un divertidísimo juego SIN ANUNCIOS con mecánicas de fusión adictivas y las locas vibras de los memes de Italian Brainrot.",
         gameTitle: "Italian Brainrot",
         playNowTitle: "¡Juega a Italian Brainrot Ahora!",
