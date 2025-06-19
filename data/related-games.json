@@ -1,0 +1,59 @@
+
+[
+    {
+        "title": {
+            "en": "Suika Game: Watermelon",
+            "zh": "西瓜游戏",
+            "es": "Juego de la Sandía"
+        },
+        "description": {
+            "en": "A super addictive puzzle game where you drop and merge fruits to create a giant watermelon without overflowing the box.",
+            "zh": "一款超级上瘾的益智游戏，您需要投下并合并水果，以创造一个巨大的西瓜，同时不能让盒子溢出。",
+            "es": "Un juego de puzzle súper adictivo donde dejas caer y fusionas frutas para crear una sandía gigante sin que se desborde la caja."
+        },
+        "image": "https://img.kiz10.com/upload/2023/10/24/20231024180424269.png",
+        "url": "https://kiz10.com/suika-game-watermelon/"
+    },
+    {
+        "title": {
+            "en": "2048 Game",
+            "zh": "2048游戏",
+            "es": "Juego 2048"
+        },
+        "description": {
+            "en": "The classic puzzle game. Slide tiles and merge matching numbers to reach the legendary 2048 tile.",
+            "zh": "经典的益智游戏。滑动方块并合并相同的数字，以达到传奇的2048方块。",
+            "es": "El clásico juego de puzzle. Desliza las fichas y fusiona los números iguales para alcanzar la legendaria ficha 2048."
+        },
+        "image": "https://img.kiz10.com/upload/2021/04/09/20210409141011881.png",
+        "url": "https://kiz10.com/2048-game/"
+    },
+    {
+        "title": {
+            "en": "Skibidi Toilets IO",
+            "zh": "斯基比迪厕所IO",
+            "es": "Skibidi Toilets IO"
+        },
+        "description": {
+            "en": "A chaotic and hilarious .io game based on the popular meme. Compete against others in a wild arena.",
+            "zh": "一款基于流行梗的混乱搞笑.io游戏。在疯狂的竞技场中与他人竞争。",
+            "es": "Un juego .io caótico y divertido basado en el popular meme. Compite contra otros en una arena salvaje."
+        },
+        "image": "https://img.kiz10.com/upload/2023/09/20/20230920150532431.png",
+        "url": "https://kiz10.com/skibidi-toilets-io/"
+    },
+    {
+        "title": {
+            "en": "Merge Master",
+            "zh": "合并大师",
+            "es": "Maestro de la Fusión"
+        },
+        "description": {
+            "en": "Merge identical items to discover new ones and complete challenges in this satisfying puzzle adventure.",
+            "zh": "在这个令人满意的益智冒险中，合并相同的物品以发现新物品并完成挑战。",
+            "es": "Fusiona objetos idénticos para descubrir nuevos y completar desafíos en esta satisfactoria aventura de puzzle."
+        },
+        "image": "https://img.kiz10.com/upload/2022/10/26/20221026170648937.png",
+        "url": "https://kiz10.com/merge-master/"
+    }
+]
